@@ -1,0 +1,477 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ahlatciapp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ahlatciapp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\animate.min..css",
+      "PackagePath": "staticwebassets\\css\\animate.min..css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\bootstrap.min..css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min..css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\hambugers.min.css",
+      "PackagePath": "staticwebassets\\css\\hambugers.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\1608794600442.jpg",
+      "PackagePath": "staticwebassets\\img\\1608794600442.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\1624613483189.jpg",
+      "PackagePath": "staticwebassets\\img\\1624613483189.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\Ahlatci.png",
+      "PackagePath": "staticwebassets\\img\\Ahlatci.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\Screenshot_1.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot_1.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\Screenshot_2.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot_2.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\abonesayisi.png",
+      "PackagePath": "staticwebassets\\img\\abonesayisi.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\client-21.png",
+      "PackagePath": "staticwebassets\\img\\client-21.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\download.svg",
+      "PackagePath": "staticwebassets\\img\\download.svg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\enerya-logo-01.png",
+      "PackagePath": "staticwebassets\\img\\enerya-logo-01.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\enerya-logo.svg",
+      "PackagePath": "staticwebassets\\img\\enerya-logo.svg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\enerya_logo-ahlatci-012.jpg",
+      "PackagePath": "staticwebassets\\img\\enerya_logo-ahlatci-012.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\gazhacmi.png",
+      "PackagePath": "staticwebassets\\img\\gazhacmi.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\giphy.gif",
+      "PackagePath": "staticwebassets\\img\\giphy.gif"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\kimlik fotosu.png",
+      "PackagePath": "staticwebassets\\img\\kimlik fotosu.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\pala.jpg",
+      "PackagePath": "staticwebassets\\img\\pala.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\pexels-pixabay-266896.jpg",
+      "PackagePath": "staticwebassets\\img\\pexels-pixabay-266896.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\sebekeuzunlugu.png",
+      "PackagePath": "staticwebassets\\img\\sebekeuzunlugu.png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\service-11.jpg",
+      "PackagePath": "staticwebassets\\img\\service-11.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\img\\w.jpg",
+      "PackagePath": "staticwebassets\\img\\w.jpg"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\uploads\\Ekran Görüntüsü (18).png",
+      "PackagePath": "staticwebassets\\uploads\\Ekran Görüntüsü (18).png"
+    },
+    {
+      "Id": "D:\\NEW YAZILIM\\dotnetv2\\ahlatciapp\\ahlatciapp\\wwwroot\\uploads\\Ekran Görüntüsü (6).png",
+      "PackagePath": "staticwebassets\\uploads\\Ekran Görüntüsü (6).png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ahlatciapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ahlatciapp.props",
+      "PackagePath": "build\\ahlatciapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ahlatciapp.props",
+      "PackagePath": "buildMultiTargeting\\ahlatciapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ahlatciapp.props",
+      "PackagePath": "buildTransitive\\ahlatciapp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

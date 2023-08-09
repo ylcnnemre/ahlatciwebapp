@@ -1,0 +1,1614 @@
+[
+  {
+    "name": "adana",
+    "plate": "01",
+    "latitude": "36.9914",
+    "longitude": "35.3308",
+    "counties": [
+      "seyhan",
+      "y�re�ir",
+      "�ukurova",
+      "ceyhan",
+      "sar��am",
+      "kozan",
+      "imamo�lu",
+      "karata�",
+      "karaisal�",
+      "pozant�",
+      "yumurtal�k",
+      "tufanbeyli",
+      "feke",
+      "alada�",
+      "saimbeyli"
+    ]
+  },
+  {
+    "name": "ad�yaman",
+    "plate": "02",
+    "latitude": "37.7636",
+    "longitude": "38.2773",
+    "counties": [
+      "merkez",
+      "kahta",
+      "besni",
+      "g�lba��",
+      "gerger",
+      "sincik",
+      "�elikhan",
+      "tut",
+      "samsat"
+    ]
+  },
+  {
+    "name": "afyonkarahisar",
+    "plate": "03",
+    "latitude": "38.7569",
+    "longitude": "30.5387",
+    "counties": [
+      "merkez",
+      "sand�kl�",
+      "dinar",
+      "bolvadin",
+      "sinanpa�a",
+      "emirda�",
+      "�uhut",
+      "�ay",
+      "ihsaniye",
+      "iscehisar",
+      "sultanda��",
+      "�obanlar",
+      "dazk�r�",
+      "ba�mak��",
+      "hocalar",
+      "bayat",
+      "evciler",
+      "k�z�l�ren"
+    ]
+  },
+  {
+    "name": "a�r�",
+    "plate": "04",
+    "latitude": "39.7191",
+    "longitude": "43.0506",
+    "counties": [
+      "merkez",
+      "patnos",
+      "do�ubayaz�t",
+      "diyadin",
+      "ele�kirt",
+      "tutak",
+      "ta�l��ay",
+      "hamur"
+    ]
+  },
+  {
+    "name": "amasya",
+    "plate": "05",
+    "latitude": "40.6565",
+    "longitude": "35.8373",
+    "counties": [
+      "merkez",
+      "merzifon",
+      "suluova",
+      "ta�ova",
+      "g�m��hac�k�y",
+      "g�yn�cek",
+      "hamam�z�"
+    ]
+  },
+  {
+    "name": "ankara",
+    "plate": "06",
+    "latitude": "39.9334",
+    "longitude": "32.8597",
+    "counties": [
+      "�ankaya",
+      "ke�i�ren",
+      "yenimahalle",
+      "mamak",
+      "etimesgut",
+      "sincan",
+      "alt�nda�",
+      "pursaklar",
+      "g�lba��",
+      "polatl�",
+      "�ubuk",
+      "kahramankazan",
+      "beypazar�",
+      "elmada�",
+      "�erefliko�hisar",
+      "akyurt",
+      "nall�han",
+      "haymana",
+      "k�z�lcahamam",
+      "bala",
+      "kalecik",
+      "aya�",
+      "g�d�l",
+      "�aml�dere",
+      "evren"
+    ]
+  },
+  {
+    "name": "antalya",
+    "plate": "07",
+    "latitude": "36.8969",
+    "longitude": "30.7133",
+    "counties": [
+      "kepez",
+      "muratpa�a",
+      "alanya",
+      "manavgat",
+      "konyaalt�",
+      "serik",
+      "aksu",
+      "kumluca",
+      "d��emealt�",
+      "ka�",
+      "korkuteli",
+      "gazipa�a",
+      "finike",
+      "kemer",
+      "elmal�",
+      "demre",
+      "akseki",
+      "g�ndo�mu�",
+      "ibrad�"
+    ]
+  },
+  {
+    "name": "artvin",
+    "plate": "08",
+    "latitude": "41.1809",
+    "longitude": "41.8208",
+    "counties": [
+      "hopa",
+      "merkez",
+      "bor�ka",
+      "yusufeli",
+      "arhavi",
+      "�av�at",
+      "ardanu�",
+      "murgul",
+      "kemalpa�a"
+    ]
+  },
+  {
+    "name": "ayd�n",
+    "plate": "09",
+    "latitude": "37.8380",
+    "longitude": "27.8456",
+    "counties": [
+      "efeler",
+      "nazilli",
+      "s�ke",
+      "ku�adas�",
+      "didim",
+      "�ine",
+      "incirliova",
+      "germencik",
+      "bozdo�an",
+      "k��k",
+      "kuyucak",
+      "sultanhisar",
+      "karacasu",
+      "yenipazar",
+      "buharkent",
+      "karpuzlu"
+    ]
+  },
+  {
+    "name": "bal�kesir",
+    "plate": "10",
+    "latitude": "39.6533",
+    "longitude": "27.8903",
+    "counties": [
+      "karesi",
+      "alt�eyl�l",
+      "band�rma",
+      "edremit",
+      "g�nen",
+      "ayval�k",
+      "burhaniye",
+      "bigadi�",
+      "susurluk",
+      "dursunbey",
+      "s�nd�rg�",
+      "ivrindi",
+      "erdek",
+      "havran",
+      "kepsut",
+      "manyas",
+      "sava�tepe",
+      "balya",
+      "g�me�",
+      "marmara"
+    ]
+  },
+  {
+    "name": "bilecik",
+    "plate": "11",
+    "latitude": "40.1426",
+    "longitude": "29.9793",
+    "counties": [
+      "merkez",
+      "boz�y�k",
+      "osmaneli",
+      "s���t",
+      "g�lpazar�",
+      "pazaryeri",
+      "yenipazar",
+      "inhisar"
+    ]
+  },
+  {
+    "name": "bing�l",
+    "plate": "12",
+    "latitude": "38.8855",
+    "longitude": "40.4966",
+    "counties": [
+      "merkez",
+      "gen�",
+      "solhan",
+      "karl�ova",
+      "adakl�",
+      "ki��",
+      "yedisu",
+      "yayladere"
+    ]
+  },
+  {
+    "name": "bitlis",
+    "plate": "13",
+    "latitude": "38.4006",
+    "longitude": "42.1095",
+    "counties": [
+      "tatvan",
+      "merkez",
+      "g�roymak",
+      "ahlat",
+      "hizan",
+      "mutki",
+      "adilcevaz"
+    ]
+  },
+  {
+    "name": "bolu",
+    "plate": "14",
+    "latitude": "40.7325",
+    "longitude": "31.6082",
+    "counties": [
+      "merkez",
+      "gerede",
+      "mudurnu",
+      "g�yn�k",
+      "mengen",
+      "yeni�a�a",
+      "d�rtdivan",
+      "seben",
+      "k�br�sc�k"
+    ]
+  },
+  {
+    "name": "burdur",
+    "plate": "15",
+    "latitude": "37.7183",
+    "longitude": "30.2823",
+    "counties": [
+      "merkez",
+      "bucak",
+      "g�lhisar",
+      "ye�ilova",
+      "�avd�r",
+      "tefenni",
+      "a�lasun",
+      "karamanl�",
+      "alt�nyayla",
+      "�eltik�i",
+      "kemer"
+    ]
+  },
+  {
+    "name": "bursa",
+    "plate": "16",
+    "latitude": "40.1885",
+    "longitude": "29.0610",
+    "counties": [
+      "osmangazi",
+      "y�ld�r�m",
+      "nil�fer",
+      "gemlik",
+      "mustafakemalpa�a",
+      "mudanya",
+      "g�rsu",
+      "karacabey",
+      "orhangazi",
+      "kestel",
+      "yeni�ehir",
+      "iznik",
+      "orhaneli",
+      "keles",
+      "b�y�korhan",
+      "harmanc�k"
+    ]
+  },
+  {
+    "name": "�anakkale",
+    "plate": "17",
+    "latitude": "40.1467",
+    "longitude": "26.4086",
+    "counties": [
+      "merkez",
+      "biga",
+      "�an",
+      "gelibolu",
+      "yenice",
+      "ayvac�k",
+      "ezine",
+      "bayrami�",
+      "lapseki",
+      "eceabat",
+      "g�k�eada",
+      "bozcaada"
+    ]
+  },
+  {
+    "name": "�ank�r�",
+    "plate": "18",
+    "latitude": "40.6002",
+    "longitude": "33.6162",
+    "counties": [
+      "merkez",
+      "�erke�",
+      "�lgaz",
+      "orta",
+      "�aban�z�",
+      "kur�unlu",
+      "yaprakl�",
+      "k�z�l�rmak",
+      "atkaracalar",
+      "eldivan",
+      "korgun",
+      "bayram�ren"
+    ]
+  },
+  {
+    "name": "�orum",
+    "plate": "19",
+    "latitude": "40.5499",
+    "longitude": "34.9537",
+    "counties": [
+      "merkez",
+      "sungurlu",
+      "osmanc�k",
+      "iskilip",
+      "alaca",
+      "bayat",
+      "mecit�z�",
+      "karg�",
+      "ortak�y",
+      "u�urluda�",
+      "dodurga",
+      "o�uzlar",
+      "la�in",
+      "bo�azkale"
+    ]
+  },
+  {
+    "name": "denizli",
+    "plate": "20",
+    "latitude": "37.7830",
+    "longitude": "29.0963",
+    "counties": [
+      "pamukkale",
+      "merkezefendi",
+      "�ivril",
+      "ac�payam",
+      "tavas",
+      "honaz",
+      "sarayk�y",
+      "buldan",
+      "kale",
+      "�al",
+      "�ameli",
+      "serinhisar",
+      "bozkurt",
+      "g�ney",
+      "�ardak",
+      "bekilli",
+      "beya�a�",
+      "babada�",
+      "baklan"
+    ]
+  },
+  {
+    "name": "diyarbak�r",
+    "plate": "21",
+    "latitude": "37.9250",
+    "longitude": "40.2110",
+    "counties": [
+      "ba�lar",
+      "kayap�nar",
+      "yeni�ehir",
+      "ergani",
+      "sur",
+      "bismil",
+      "silvan",
+      "��nar",
+      "�ermik",
+      "dicle",
+      "kulp",
+      "hani",
+      "lice",
+      "e�il",
+      "hazro",
+      "kocak�y",
+      "��ng��"
+    ]
+  },
+  {
+    "name": "edirne",
+    "plate": "22",
+    "latitude": "41.6771",
+    "longitude": "26.5557",
+    "counties": [
+      "merkez",
+      "ke�an",
+      "uzunk�pr�",
+      "ipsala",
+      "havsa",
+      "meri�",
+      "enez",
+      "s�lo�lu",
+      "lalapa�a"
+    ]
+  },
+  {
+    "name": "elaz��",
+    "plate": "23",
+    "latitude": "38.6748",
+    "longitude": "39.2225",
+    "counties": [
+      "merkez",
+      "kovanc�lar",
+      "karako�an",
+      "palu",
+      "ar�cak",
+      "baskil",
+      "maden",
+      "sivrice",
+      "alacakaya",
+      "keban",
+      "a��n"
+    ]
+  },
+  {
+    "name": "erzincan",
+    "plate": "24",
+    "latitude": "39.7468",
+    "longitude": "39.4911",
+    "counties": [
+      "merkez",
+      "tercan",
+      "�z�ml�",
+      "�ay�rl�",
+      "ili�",
+      "kemah",
+      "kemaliye",
+      "otlukbeli"
+    ]
+  },
+  {
+    "name": "erzurum",
+    "plate": "25",
+    "latitude": "39.9055",
+    "longitude": "41.2658",
+    "counties": [
+      "yakutiye",
+      "paland�ken",
+      "aziziye",
+      "horasan",
+      "oltu",
+      "pasinler",
+      "karayaz�",
+      "h�n�s",
+      "tekman",
+      "kara�oban",
+      "a�kale",
+      "�enkaya",
+      "�at",
+      "k�pr�k�y",
+      "ispir",
+      "tortum",
+      "narman",
+      "uzundere",
+      "olur",
+      "pazaryolu"
+    ]
+  },
+  {
+    "name": "eski�ehir",
+    "plate": "26",
+    "latitude": "39.7667",
+    "longitude": "30.5256",
+    "counties": [
+      "odunpazar�",
+      "tepeba��",
+      "sivrihisar",
+      "�ifteler",
+      "seyitgazi",
+      "alpu",
+      "mihal����k",
+      "mahmudiye",
+      "beylikova",
+      "in�n�",
+      "sar�cakaya",
+      "g�ny�z�",
+      "mihalgazi",
+      "han"
+    ]
+  },
+  {
+    "name": "gaziantep",
+    "plate": "27",
+    "latitude": "37.0660",
+    "longitude": "37.3781",
+    "counties": [
+      "�ahinbey",
+      "�ehitkamil",
+      "nizip",
+      "islahiye",
+      "nurda��",
+      "araban",
+      "o�uzeli",
+      "yavuzeli",
+      "karkam��"
+    ]
+  },
+  {
+    "name": "giresun",
+    "plate": "28",
+    "latitude": "40.9175",
+    "longitude": "38.3927",
+    "counties": [
+      "merkez",
+      "bulancak",
+      "espiye",
+      "g�rele",
+      "tirebolu",
+      "dereli",
+      "�ebinkarahisar",
+      "ke�ap",
+      "ya�l�dere",
+      "alucra",
+      "piraziz",
+      "eynesil",
+      "g�ce",
+      "�anak��",
+      "do�ankent",
+      "�amoluk"
+    ]
+  },
+  {
+    "name": "g�m��hane",
+    "plate": "29",
+    "latitude": "40.4608",
+    "longitude": "39.4803",
+    "counties": [
+      "merkez",
+      "kelkit",
+      "�iran",
+      "k�rt�n",
+      "torul",
+      "k�se"
+    ]
+  },
+  {
+    "name": "hakkari",
+    "plate": "30",
+    "latitude": "37.5774",
+    "longitude": "43.7368",
+    "counties": [
+      "y�ksekova",
+      "merkez",
+      "�ukurca",
+      "�emdinli",
+      "�ukurca"
+    ]
+  },
+  {
+    "name": "hatay",
+    "plate": "31",
+    "latitude": "36.2023",
+    "longitude": "36.1613",
+    "counties": [
+      "antakya",
+      "iskenderun",
+      "defne",
+      "d�rtyol",
+      "samanda�",
+      "k�r�khan",
+      "reyhanl�",
+      "arsuz",
+      "alt�n�z�",
+      "hassa",
+      "erzin",
+      "payas",
+      "belen",
+      "yaylada��",
+      "kumlu"
+    ]
+  },
+  {
+    "name": "�sparta",
+    "plate": "32",
+    "latitude": "37.7626",
+    "longitude": "30.5537",
+    "counties": [
+      "merkez",
+      "yalva�",
+      "e�irdir",
+      "�arkikaraa�a�",
+      "gelendost",
+      "ke�iborlu",
+      "senirkent",
+      "s�t��ler",
+      "g�nen",
+      "uluborlu",
+      "atabey",
+      "aksu",
+      "yeni�arbademli"
+    ]
+  },
+  {
+    "name": "mersin",
+    "plate": "33",
+    "latitude": "36.8121",
+    "longitude": "34.6415",
+    "counties": [
+      "tarsus",
+      "toroslar",
+      "akdeniz",
+      "yeni�ehir",
+      "mezitli",
+      "erdemli",
+      "silifke",
+      "anamur",
+      "mut",
+      "bozyaz�",
+      "g�lnar",
+      "ayd�nc�k",
+      "�aml�yayla"
+    ]
+  },
+  {
+    "name": "istanbul",
+    "plate": "34",
+    "latitude": "41.0082",
+    "longitude": "28.9784",
+    "counties": [
+      "esenyurt",
+      "k���k�ekmece",
+      "ba�c�lar",
+      "�mraniye",
+      "pendik",
+      "bah�elievler",
+      "�sk�dar",
+      "sultangazi",
+      "gaziosmanpa�a",
+      "maltepe",
+      "kartal",
+      "esenler",
+      "kad�k�y",
+      "ka��thane",
+      "avc�lar",
+      "ata�ehir",
+      "fatih",
+      "ey�p",
+      "sancaktepe",
+      "ba�ak�ehir",
+      "sar�yer",
+      "sultanbeyli",
+      "g�ng�ren",
+      "beylikd�z�",
+      "zeytinburnu",
+      "bayrampa�a",
+      "�i�li",
+      "beykoz",
+      "arnavutk�y",
+      "tuzla",
+      "�ekmek�y",
+      "beyo�lu",
+      "b�y�k�ekmece",
+      "bak�rk�y",
+      "be�ikta�",
+      "silivri",
+      "�atalca",
+      "�ile",
+      "adalar"
+    ]
+  },
+  {
+    "name": "izmir",
+    "plate": "35",
+    "latitude": "38.4237",
+    "longitude": "27.1428",
+    "counties": [
+      "buca",
+      "karaba�lar",
+      "bornova",
+      "konak",
+      "kar��yaka",
+      "bayrakl�",
+      "�i�li",
+      "torbal�",
+      "menemen",
+      "gaziemir",
+      "�demi�",
+      "kemalpa�a",
+      "bergama",
+      "alia�a",
+      "menderes",
+      "tire",
+      "bal�ova",
+      "narl�dere",
+      "urla",
+      "kiraz",
+      "dikili",
+      "�e�me",
+      "bay�nd�r",
+      "seferihisar",
+      "sel�uk",
+      "g�zelbah�e",
+      "fo�a",
+      "k�n�k",
+      "beyda�",
+      "karaburun"
+    ]
+  },
+  {
+    "name": "kars",
+    "plate": "36",
+    "latitude": "40.6013",
+    "longitude": "43.0975",
+    "counties": [
+      "merkez",
+      "ka��zman",
+      "sar�kam��",
+      "selim",
+      "digor",
+      "arpa�ay",
+      "akyaka",
+      "susuz"
+    ]
+  },
+  {
+    "name": "kastamonu",
+    "plate": "37",
+    "latitude": "41.3766",
+    "longitude": "33.7765",
+    "counties": [
+      "merkez",
+      "tosya",
+      "ta�k�pr�",
+      "cide",
+      "inebolu",
+      "ara�",
+      "devrekani",
+      "bozkurt",
+      "daday",
+      "azdavay",
+      "�atalzeytin",
+      "k�re",
+      "do�anyurt",
+      "ihsangazi",
+      "p�narba��",
+      "�enpazar",
+      "abana",
+      "seydiler",
+      "han�n�",
+      "a�l�"
+    ]
+  },
+  {
+    "name": "kayseri",
+    "plate": "38",
+    "latitude": "38.7205",
+    "longitude": "35.4826",
+    "counties": [
+      "melikgazi",
+      "kocasinan",
+      "talas",
+      "develi",
+      "yahyal�",
+      "b�nyan",
+      "incesu",
+      "p�narba��",
+      "tomarza",
+      "ye�ilhisar",
+      "sar�o�lan",
+      "hac�lar",
+      "sar�z",
+      "akk��la",
+      "felahiye",
+      "�zvatan"
+    ]
+  },
+  {
+    "name": "k�rklareli",
+    "plate": "39",
+    "latitude": "41.7355",
+    "longitude": "27.2244",
+    "counties": [
+      "l�leburgaz",
+      "merkez",
+      "babaeski",
+      "vize",
+      "p�narhisar",
+      "demirk�y",
+      "pehlivank�y",
+      "kof�az"
+    ]
+  },
+  {
+    "name": "k�r�ehir",
+    "plate": "40",
+    "latitude": "39.1461",
+    "longitude": "34.1595",
+    "counties": [
+      "merkez",
+      "kaman",
+      "mucur",
+      "�i�ekda��",
+      "akp�nar",
+      "boztepe",
+      "ak�akent"
+    ]
+  },
+  {
+    "name": "kocaeli",
+    "plate": "41",
+    "latitude": "40.7654",
+    "longitude": "29.9408",
+    "counties": [
+      "gebze",
+      "izmit",
+      "dar�ca",
+      "k�rfez",
+      "g�lc�k",
+      "derince",
+      "�ay�rova",
+      "kartepe",
+      "ba�iskele",
+      "karam�rsel",
+      "kand�ra",
+      "dilovas�"
+    ]
+  },
+  {
+    "name": "konya",
+    "plate": "42",
+    "latitude": "37.8746",
+    "longitude": "32.4932",
+    "counties": [
+      "sel�uklu",
+      "meram",
+      "karatay",
+      "ere�li",
+      "ak�ehir",
+      "bey�ehir",
+      "�umra",
+      "seydi�ehir",
+      "�lg�n",
+      "cihanbeyli",
+      "kulu",
+      "karap�nar",
+      "kad�nhan�",
+      "saray�n�",
+      "bozk�r",
+      "yunak",
+      "do�anhisar",
+      "h�y�k",
+      "alt�nekin",
+      "hadim",
+      "�eltik",
+      "emirgazi",
+      "tuzluk�u",
+      "derebucak",
+      "ak�ren",
+      "halkap�nar",
+      "yal�h�y�k"
+    ]
+  },
+  {
+    "name": "k�tahya",
+    "plate": "43",
+    "latitude": "39.4200",
+    "longitude": "29.9857",
+    "counties": [
+      "merkez",
+      "tav�anl�",
+      "simav",
+      "gediz",
+      "emet",
+      "alt�nta�",
+      "domani�",
+      "hisarc�k",
+      "aslanapa",
+      "�avdarhisar",
+      "�aphane",
+      "pazarlar",
+      "dumlup�nar"
+    ]
+  },
+  {
+    "name": "malatya",
+    "plate": "44",
+    "latitude": "38.3554",
+    "longitude": "38.3335",
+    "counties": [
+      "battalgazi",
+      "ye�ilyurt",
+      "do�an�ehir",
+      "ak�ada�",
+      "darende",
+      "hekimhan",
+      "p�t�rge",
+      "yaz�han",
+      "arapgir",
+      "arguvan",
+      "kuluncak",
+      "kale",
+      "do�anyol"
+    ]
+  },
+  {
+    "name": "manisa",
+    "plate": "45",
+    "latitude": "38.6140",
+    "longitude": "27.4296",
+    "counties": [
+      "yunusemre",
+      "�ehzadeler",
+      "akhisar",
+      "salihli",
+      "turgutlu",
+      "soma",
+      "ala�ehir",
+      "saruhanl�",
+      "kula",
+      "k�rka�a�",
+      "demirci",
+      "sar�g�l",
+      "g�rdes",
+      "selendi",
+      "ahmetli",
+      "g�lmarmara",
+      "k�pr�ba��"
+    ]
+  },
+  {
+    "name": "kahramanmara�",
+    "plate": "46",
+    "latitude": "37.5753",
+    "longitude": "36.9228",
+    "counties": [
+      "oniki�ubat",
+      "dulkadiro�lu",
+      "elbistan",
+      "af�in",
+      "t�rko�lu",
+      "pazarc�k",
+      "g�ksun",
+      "and�r�n",
+      "�a�layancerit",
+      "nurhak",
+      "ekin�z�"
+    ]
+  },
+  {
+    "name": "mardin",
+    "plate": "47",
+    "latitude": "37.3129",
+    "longitude": "40.7340",
+    "counties": [
+      "k�z�ltepe",
+      "artuklu",
+      "midyat",
+      "nusaybin",
+      "derik",
+      "maz�da��",
+      "darge�it",
+      "savur",
+      "ye�illi",
+      "�merli"
+    ]
+  },
+  {
+    "name": "mu�la",
+    "plate": "48",
+    "latitude": "37.2154",
+    "longitude": "28.3634",
+    "counties": [
+      "bodrum",
+      "fethiye",
+      "milas",
+      "mente�e",
+      "marmaris",
+      "seydikemer",
+      "ortaca",
+      "yata�an",
+      "dalaman",
+      "k�yce�iz",
+      "ula",
+      "dat�a",
+      "kavakl�dere"
+    ]
+  },
+  {
+    "name": "mu�",
+    "plate": "49",
+    "latitude": "38.7346",
+    "longitude": "41.4910",
+    "counties": [
+      "merkez",
+      "bulan�k",
+      "malazgirt",
+      "varto",
+      "hask�y",
+      "korkut"
+    ]
+  },
+  {
+    "name": "nev�ehir",
+    "plate": "50",
+    "latitude": "38.6247",
+    "longitude": "34.7142",
+    "counties": [
+      "merkez",
+      "�rg�p",
+      "avanos",
+      "g�l�ehir",
+      "derinkuyu",
+      "ac�g�l",
+      "kozakl�",
+      "hac�bekta�"
+    ]
+  },
+  {
+    "name": "ni�de",
+    "plate": "51",
+    "latitude": "37.9698",
+    "longitude": "34.6766",
+    "counties": [
+      "merkez",
+      "bor",
+      "�iftlik",
+      "uluk��la",
+      "altunhisar",
+      "�amard�"
+    ]
+  },
+  {
+    "name": "ordu",
+    "plate": "52",
+    "latitude": "40.9862",
+    "longitude": "37.8797",
+    "counties": [
+      "alt�nordu",
+      "�nye",
+      "fatsa",
+      "g�lk�y",
+      "per�embe",
+      "kumru",
+      "aybast�",
+      "korgan",
+      "akku�",
+      "ulubey",
+      "mesudiye",
+      "ikizce",
+      "g�rgentepe",
+      "�atalp�nar",
+      "�ayba��",
+      "kabata�",
+      "�ama�",
+      "g�lyal�"
+    ]
+  },
+  {
+    "name": "rize",
+    "plate": "53",
+    "latitude": "41.0255",
+    "longitude": "40.5177",
+    "counties": [
+      "merkez",
+      "�ayeli",
+      "arde�en",
+      "pazar",
+      "f�nd�kl�",
+      "g�neysu",
+      "kalkandere",
+      "iyidere",
+      "derepazar�",
+      "�aml�hem�in",
+      "ikizdere",
+      "hem�in"
+    ]
+  },
+  {
+    "name": "sakarya",
+    "plate": "54",
+    "latitude": "40.7889",
+    "longitude": "30.4060",
+    "counties": [
+      "adapazar�",
+      "serdivan",
+      "akyaz�",
+      "erenler",
+      "hendek",
+      "karasu",
+      "geyve",
+      "arifiye",
+      "sapanca",
+      "pamukova",
+      "ferizli",
+      "kaynarca",
+      "kocaali",
+      "karap�r�ek",
+      "tarakl�"
+    ]
+  },
+  {
+    "name": "samsun",
+    "plate": "55",
+    "latitude": "41.2797",
+    "longitude": "36.3361",
+    "counties": [
+      "ilkad�m",
+      "atakum",
+      "bafra",
+      "�ar�amba",
+      "canik",
+      "vezirk�pr�",
+      "terme",
+      "tekkek�y",
+      "havza",
+      "ala�am",
+      "19 may�s",
+      "ayvac�k",
+      "kavak",
+      "sal�pazar�",
+      "asarc�k",
+      "ladik",
+      "yakakent"
+    ]
+  },
+  {
+    "name": "siirt",
+    "plate": "56",
+    "latitude": "37.9274",
+    "longitude": "41.9420",
+    "counties": [
+      "merkez",
+      "kurtalan",
+      "pervari",
+      "baykan",
+      "�irvan",
+      "eruh",
+      "tillo"
+    ]
+  },
+  {
+    "name": "sinop",
+    "plate": "57",
+    "latitude": "42.0280",
+    "longitude": "35.1517",
+    "counties": [
+      "merkez",
+      "boyabat",
+      "gerze",
+      "ayanc�k",
+      "dura�an",
+      "t�rkeli",
+      "erfelek",
+      "dikmen",
+      "sarayd�z�"
+    ]
+  },
+  {
+    "name": "sivas",
+    "plate": "58",
+    "latitude": "39.7505",
+    "longitude": "37.0150",
+    "counties": [
+      "merkez",
+      "�ark��la",
+      "y�ld�zeli",
+      "su�ehri",
+      "gemerek",
+      "zara",
+      "kangal",
+      "g�r�n",
+      "divri�i",
+      "koyulhisar",
+      "alt�nyayla",
+      "hafik",
+      "ula�",
+      "imranl�",
+      "ak�nc�lar",
+      "g�lova",
+      "do�an�ar"
+    ]
+  },
+  {
+    "name": "tekirda�",
+    "plate": "59",
+    "latitude": "40.9781",
+    "longitude": "27.5117",
+    "counties": [
+      "�orlu",
+      "s�leymanpa�a",
+      "�erkezk�y",
+      "kapakl�",
+      "ergene",
+      "malkara",
+      "saray",
+      "hayrabolu",
+      "�ark�y",
+      "muratl�",
+      "marmaraere�lisi"
+    ]
+  },
+  {
+    "name": "tokat",
+    "plate": "60",
+    "latitude": "40.3235",
+    "longitude": "36.5522",
+    "counties": [
+      "merkez",
+      "erbaa",
+      "turhal",
+      "niksar",
+      "zile",
+      "re�adiye",
+      "almus",
+      "pazar",
+      "ba��iftlik",
+      "ye�ilyurt",
+      "artova",
+      "sulusaray"
+    ]
+  },
+  {
+    "name": "trabzon",
+    "plate": "61",
+    "latitude": "41.0027",
+    "longitude": "39.7168",
+    "counties": [
+      "ortahisar",
+      "ak�aabat",
+      "arakl�",
+      "of",
+      "yomra",
+      "arsin",
+      "vakf�kebir",
+      "s�rmene",
+      "ma�ka",
+      "be�ikd�z�",
+      "�ar��ba��",
+      "tonya",
+      "d�zk�y",
+      "�aykara",
+      "�alpazar�",
+      "hayrat",
+      "k�pr�ba��",
+      "dernekpazar�"
+    ]
+  },
+  {
+    "name": "tunceli",
+    "plate": "62",
+    "latitude": "39.1062",
+    "longitude": "39.5483",
+    "counties": [
+      "merkez",
+      "pertek",
+      "mazgirt",
+      "�emi�gezek",
+      "hozat",
+      "ovac�k",
+      "p�l�m�r",
+      "naz�miye"
+    ]
+  },
+  {
+    "name": "�anl�urfa",
+    "plate": "63",
+    "latitude": "37.1674",
+    "longitude": "38.7955",
+    "counties": [
+      "eyy�biye",
+      "haliliye",
+      "siverek",
+      "viran�ehir",
+      "karak�pr�",
+      "ak�akale",
+      "suru�",
+      "birecik",
+      "ceylanp�nar",
+      "harran",
+      "bozova",
+      "hilvan",
+      "halfeti"
+    ]
+  },
+  {
+    "name": "u�ak",
+    "plate": "64",
+    "latitude": "38.6742",
+    "longitude": "29.4059",
+    "counties": [
+      "merkez",
+      "banaz",
+      "e�me",
+      "sivasl�",
+      "ulubey",
+      "karahall�"
+    ]
+  },
+  {
+    "name": "van",
+    "plate": "65",
+    "latitude": "38.5012",
+    "longitude": "43.3730",
+    "counties": [
+      "ipekyolu",
+      "erci�",
+      "tu�ba",
+      "edremit",
+      "�zalp",
+      "�ald�ran",
+      "ba�kale",
+      "muradiye",
+      "g�rp�nar",
+      "geva�",
+      "saray",
+      "�atak",
+      "bah�esaray"
+    ]
+  },
+  {
+    "name": "yozgat",
+    "plate": "66",
+    "latitude": "39.8210",
+    "longitude": "34.8086",
+    "counties": [
+      "merkez",
+      "sorgun",
+      "akda�madeni",
+      "yerk�y",
+      "sar�kaya",
+      "bo�azl�yan",
+      "�ekerek",
+      "�efaatli",
+      "saraykent",
+      "�ay�ralan",
+      "kad��ehri",
+      "ayd�nc�k",
+      "yenifak�ll�",
+      "�and�r"
+    ]
+  },
+  {
+    "name": "zonguldak",
+    "plate": "67",
+    "latitude": "41.4535",
+    "longitude": "31.7894",
+    "counties": [
+      "ere�li",
+      "merkez",
+      "�aycuma",
+      "devrek",
+      "kozlu",
+      "alapl�",
+      "kilimli",
+      "g�k�ebey"
+    ]
+  },
+  {
+    "name": "aksaray",
+    "plate": "68",
+    "latitude": "38.3686",
+    "longitude": "34.0297",
+    "counties": [
+      "merkez",
+      "ortak�y",
+      "eskil",
+      "g�la�a�",
+      "g�zelyurt",
+      "a�a��ren",
+      "sar�yah�i",
+      "sultanhan�"
+    ]
+  },
+  {
+    "name": "bayburt",
+    "plate": "69",
+    "latitude": "40.2603",
+    "longitude": "40.2280",
+    "counties": [
+      "merkez",
+      "demir�z�",
+      "ayd�ntepe"
+    ]
+  },
+  {
+    "name": "karaman",
+    "plate": "70",
+    "latitude": "37.1810",
+    "longitude": "33.2222",
+    "counties": [
+      "merkez",
+      "ermenek",
+      "sar�evliler",
+      "ayranc�",
+      "kaz�mkarabekir",
+      "ba�yayla"
+    ]
+  },
+  {
+    "name": "k�r�kkale",
+    "plate": "71",
+    "latitude": "39.8398",
+    "longitude": "33.5089",
+    "counties": [
+      "merkez",
+      "yah�ihan",
+      "keskin",
+      "delice",
+      "bah�ili",
+      "sulakyurt",
+      "bal��eyh",
+      "karake�ili",
+      "�elebi"
+    ]
+  },
+  {
+    "name": "batman",
+    "plate": "72",
+    "latitude": "37.8895",
+    "longitude": "41.1293",
+    "counties": [
+      "merkez",
+      "kozluk",
+      "be�iri",
+      "sason",
+      "ger���",
+      "hasankeyf"
+    ]
+  },
+  {
+    "name": "��rnak",
+    "plate": "73",
+    "latitude": "37.5190",
+    "longitude": "42.4537",
+    "counties": [
+      "cizre",
+      "silopi",
+      "merkez",
+      "idil",
+      "uludere",
+      "beyt���ebap",
+      "g��l�konak"
+    ]
+  },
+  {
+    "name": "bart�n",
+    "plate": "74",
+    "latitude": "41.6376",
+    "longitude": "32.3338",
+    "counties": [
+      "merkez",
+      "ulus",
+      "amasra",
+      "kuruca�ile"
+    ]
+  },
+  {
+    "name": "ardahan",
+    "plate": "75",
+    "latitude": "41.1130",
+    "longitude": "42.7023",
+    "counties": [
+      "merkez",
+      "g�le",
+      "��ld�r",
+      "hanak",
+      "posof",
+      "damal"
+    ]
+  },
+  {
+    "name": "��d�r",
+    "plate": "76",
+    "latitude": "39.9201",
+    "longitude": "44.0436",
+    "counties": [
+      "merkez",
+      "tuzluca",
+      "aral�k",
+      "karakoyunlu"
+    ]
+  },
+  {
+    "name": "yalova",
+    "plate": "77",
+    "latitude": "40.6549",
+    "longitude": "29.2842",
+    "counties": [
+      "merkez",
+      "�iftlikk�y",
+      "��narc�k",
+      "alt�nova",
+      "armutlu",
+      "termal"
+    ]
+  },
+  {
+    "name": "karab�k",
+    "plate": "78",
+    "latitude": "41.1956",
+    "longitude": "32.6227",
+    "counties": [
+      "merkez",
+      "safranbolu",
+      "yenice",
+      "eskipazar",
+      "eflani",
+      "ovac�k"
+    ]
+  },
+  {
+    "name": "kilis",
+    "plate": "79",
+    "latitude": "36.7165",
+    "longitude": "37.1147",
+    "counties": [
+      "merkez",
+      "musabeyli",
+      "elbeyli",
+      "polateli"
+    ]
+  },
+  {
+    "name": "osmaniye",
+    "plate": "80",
+    "latitude": "37.0746",
+    "longitude": "36.2464",
+    "counties": [
+      "merkez",
+      "kadirli",
+      "d�zi�i",
+      "bah�e",
+      "toprakkale",
+      "sumbas",
+      "hasanbeyli"
+    ]
+  },
+  {
+    "name": "d�zce",
+    "plate": "81",
+    "latitude": "40.8387",
+    "longitude": "31.1626",
+    "counties": [
+      "merkez",
+      "ak�akoca",
+      "kayna�l�",
+      "g�lyaka",
+      "�ilimli",
+      "y���lca",
+      "g�m��ova",
+      "cumayeri"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ahlatciapp", "ahlatciapp\ahlatciapp.csproj", "{BB4820C9-E2F3-4264-AB4A-858157E42835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4820C9-E2F3-4264-AB4A-858157E42835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4820C9-E2F3-4264-AB4A-858157E42835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4820C9-E2F3-4264-AB4A-858157E42835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4820C9-E2F3-4264-AB4A-858157E42835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4C95F1-1132-4F26-B98A-2FB7125546A2}
+	EndGlobalSection
+EndGlobal

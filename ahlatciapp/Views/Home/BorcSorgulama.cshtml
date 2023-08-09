@@ -1,0 +1,166 @@
+﻿@model ahlatciapp.Models.ViewModel.BorcSorgulaViewModel
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Borc Sorgulama</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.min..css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/animate.min..css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/hambugers.min.css">
+    <!--===============================================================================================-->
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/select2.min.css">
+
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/css/main.css">
+    <!--===============================================================================================-->
+</head>
+<body>
+    <div>
+        <div class="limiter">
+            <div class="container-login100" style="background-image: url('img/carousel-2.jpg');">
+                <div class="wrap-login100"  id="borcForm" >
+                    <form class="login100-form validate-form" id="myForm" style="width:100% ; margin-bottom:40px" >
+                        <span class="login100-form-logo">
+                            <img src="img/client-21.png" height="48" alt="" />
+
+                        </span>
+
+                        <span class="login100-form-title p-b-34 p-t-27">
+                            Borç Sorgulama
+                        </span>
+
+                        <div class="wrap-input100 validate-input">
+                            <input class="input100" placeholder="Lütfen Tc Giriniz Giriniz" id="tcNo"  />
+                            <span class="symbol-input100"></span>
+                        </div>
+
+
+
+                        <div class="container-login100-form-btn">
+                            <input type="button" value="Sorgula" class="login100-form-btn"  id="btnSorgu"  />
+                        </div>
+
+
+                    </form>
+
+                    <table class="table" id="tableContainer" style="display:none"  >
+                        <thead>
+                            <tr>
+                                <th scope="col">Ad</th>
+                                <th scope="col">Soyad</th>
+                                <th scope="col">Tutar</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                            
+                           
+                        </tbody>
+                    </table>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <script>
+
+        $(document).ready(function(){
+
+
+            
+
+            $("#btnSorgu").click(function(){
+                let tcNoData = $("#tcNo").val();
+
+                const data = {
+                    TcNo: tcNoData
+                }
+
+                console.log("dataa ==>", data)
+              
+
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/borcSorgula",
+                    contentType: "application/json",
+                    data: JSON.stringify(data),
+                    success: function (response) {
+                        $("#tableContainer").css("display","table")
+                        console.log("response ==>", typeof response)
+
+                        if(response!=="")
+                        {
+                            let ad = response.Ad
+                            let soyad = response.SoyAd
+                            let fiyat = response.faturalar
+
+                            var newRow = $("<tr>");
+
+                            response.faturalar.$values.forEach(item => {
+
+                                newRow.append($("<td>").text(ad));
+                                newRow.append($("<td>").text(soyad));
+                                newRow.append($("<td>").text(item.Fiyat));
+
+                            })
+                           
+                            $("#tableBody").append(newRow);
+                        }
+
+                        else{
+                            alert("böyle bir kullanıcı bulunamadı")
+                           
+                        }
+                      
+                   
+                      
+                    },
+                    error: function (error) {
+                        console.log("Hata: ", error);
+                    }
+                });
+
+
+
+            })
+
+   
+
+
+
+
+            $("#myForm").submit(function (e) {
+                e.preventDefault(); // Formun normal submitini engelle
+            });
+
+        });
+
+
+    </script>
+
+
+</body>
+</html>

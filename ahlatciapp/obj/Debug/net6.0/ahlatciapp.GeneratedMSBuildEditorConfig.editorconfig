@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ahlatciapp
+build_property.RootNamespace = ahlatciapp
+build_property.ProjectDir = D:\NEW YAZILIM\dotnetv2\ahlatciapp\ahlatciapp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NEW YAZILIM\dotnetv2\ahlatciapp\ahlatciapp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/Adres.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZHJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/BorcSorgulama.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb3JjU29yZ3VsYW1hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaXJpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/Hizmetler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIaXptZXRsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/KayitForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXlpdEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Home/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NEW YAZILIM/dotnetv2/ahlatciapp/ahlatciapp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cgmxrp6ib8
